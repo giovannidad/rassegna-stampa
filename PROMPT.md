@@ -13,6 +13,11 @@ Fai ricerche separate per ogni sezione, privilegiando:
 - Agenzie e quotidiani: ANSA, Il Sole 24 Ore, Corriere della Sera, la Repubblica.
 - Fonti istituzionali: ACN e CSIRT Italia, AgID, Garante per la protezione dei dati personali, Dipartimento per la trasformazione digitale, Italia Domani (PNRR).
 - Testate di settore: Agenda Digitale, Cybersecurity360, FPA (ForumPA), Red Hot Cyber.
+- Internazionali, attualità e politica: Reuters, Associated Press, BBC News, Politico Europe, The Guardian, Le Monde.
+- Internazionali, tech, AI e cybersecurity: The Record (Recorded Future News), BleepingComputer, SecurityWeek, Krebs on Security, Dark Reading, Ars Technica, MIT Technology Review; istituzionali: CISA, ENISA, CERT-EU.
+- Internazionali, PA digitale e privacy: EDPB, Commissione europea (Shaping Europe's Digital Future), Euractiv, noyb.
+- Tennis e rugby: ATP Tour, WTA, World Rugby, Six Nations.
+Usa solo fonti ad accesso libero: se un articolo è dietro paywall e ne vedi solo titolo o sommario, non usarlo e cerca la stessa notizia su una fonte aperta. Le notizie da fonti straniere vanno raccontate in italiano.
 Verifica le notizie importanti su almeno due fonti. Non inventare nulla: se una sezione non ha notizie rilevanti, dillo in una frase e passa oltre.
 
 ## 3. Sezioni, in quest'ordine
