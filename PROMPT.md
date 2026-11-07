@@ -35,7 +35,7 @@ Crea `episodes/AAAA-MM-GG.md` esattamente così:
 
 ```
 ---
-title: "Rassegna del [giorno] [data estesa]"
+title: "Rassegna di [giorno della settimana] [data estesa], es. Rassegna di lunedì 9 novembre 2026"
 summary: "Una riga con i 3-4 temi principali"
 sources:
   - name: "Nome testata - titolo breve"
