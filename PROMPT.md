@@ -21,13 +21,13 @@ Usa solo fonti ad accesso libero: se un articolo è dietro paywall e ne vedi sol
 Verifica le notizie importanti su almeno due fonti. Non inventare nulla: se una sezione non ha notizie rilevanti, dillo in una frase e passa oltre.
 
 ## 3. Sezioni, in quest'ordine
-1. **Attualità e politica** (Italia ed esteri): 3-4 notizie principali.
-2. **Tech, AI e cybersecurity**: vulnerabilità critiche, attacchi rilevanti (soprattutto verso PA ed enti locali italiani), novità AI importanti.
-3. **PA digitale e privacy**: PNRR e scadenze, avvisi PA digitale, circolari AgID e ACN, provvedimenti e sanzioni del Garante, novità GDPR e AI Act che riguardano i Comuni.
+1. **Attualità e politica** (Italia ed esteri): 5-6 notizie, almeno una internazionale o europea.
+2. **Tech, AI e cybersecurity** (4-5 notizie): vulnerabilità critiche, attacchi rilevanti (soprattutto verso PA ed enti locali italiani), novità AI importanti.
+3. **PA digitale e privacy** (3-4 notizie, almeno una di livello europeo): PNRR e scadenze, avvisi PA digitale, circolari AgID e ACN, provvedimenti e sanzioni del Garante, novità GDPR e AI Act che riguardano i Comuni.
 4. **Sport**: SOLO tennis e rugby, e solo se c'è una notizia davvero rilevante (finali, risultati di italiani nei grandi tornei, Sei Nazioni, test match). Nessun altro sport: niente calcio, Formula 1, MotoGP, basket, ecc. Se non c'è nulla, ometti la sezione.
 
 ## 4. Stile del copione (sarà letto da una voce sintetica)
-- Lunghezza: tra 650 e 750 parole (circa 5 minuti).
+- Lunghezza: tra 1300 e 1450 parole (circa 10 minuti). Indicativamente: attualità 40%, tech e cybersecurity 30%, PA digitale e privacy 25%, sport il resto. Approfondisci con contesto e conseguenze invece di aggiungere notizie minori.
 - Apertura: "Buongiorno Giovanni, è [giorno] [data]. Ecco la rassegna del mattino." Chiusura breve: "È tutto per oggi. Buona giornata."
 - Frasi brevi e lineari, una notizia per paragrafo, tono da giornale radio, neutrale.
 - Annuncia ogni sezione con una frase di transizione ("Passiamo alla cybersecurity.").
