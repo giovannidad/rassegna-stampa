@@ -1,0 +1,15 @@
+# Configurazione del podcast "Rassegna del mattino"
+title: "Rassegna del mattino"
+description: "Rassegna stampa audio di 5 minuti: attualità, tech e cybersecurity, PA digitale e privacy."
+author: "Giovanni"
+language: "it-IT"
+
+# Voce principale (Edge TTS). Alternative: it-IT-DiegoNeural, it-IT-ElsaNeural
+edge_voice: "it-IT-IsabellaNeural"
+edge_rate: "+5%"
+
+# Voce di riserva (Piper), usata solo se Edge TTS fallisce
+piper_voice: "it_IT-paola-medium"
+
+# Quanti episodi tenere online (i più vecchi vengono rimossi)
+keep_episodes: 30
