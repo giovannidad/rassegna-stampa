@@ -12,4 +12,4 @@ edge_rate: "+5%"
 piper_voice: "it_IT-paola-medium"
 
 # Quanti episodi tenere online (i più vecchi vengono rimossi)
-keep_episodes: 30
+keep_episodes: 10
