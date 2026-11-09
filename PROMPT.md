@@ -18,6 +18,14 @@ Fai ricerche separate per ogni sezione, privilegiando:
 - Internazionali, PA digitale e privacy: EDPB, Commissione europea (Shaping Europe's Digital Future), Euractiv, noyb.
 - Tennis e rugby: ATP Tour, WTA, World Rugby, Six Nations.
 Usa solo fonti ad accesso libero: se un articolo è dietro paywall e ne vedi solo titolo o sommario, non usarlo e cerca la stessa notizia su una fonte aperta. Le notizie da fonti straniere vanno raccontate in italiano.
+Fonti e pagine da evitare perché in passato hanno dato problemi (non raggiungibili, contenuto non datato o non verificabile):
+- Pagine indice o tag di BleepingComputer (bleepingcomputer.com/tag/...): mostrano elenchi senza date né URL e a volte notizie vecchie. Usa solo articoli singoli, trovati con una ricerca, con data verificabile.
+- Newsletter e aggregatori di notizie (this.weekinsecurity.com, learnrudi.com, fourweekmba.com, riepiloghi "AI Daily", substack e blog di riassunti): non caricano o riportano cifre non verificate. Servono al massimo come spunto: ogni notizia va confermata su una fonte primaria o su una testata della lista sopra.
+- Federprivacy (federprivacy.org): le pagine dei singoli articoli spesso non si caricano. Per le notizie del Garante preferisci garanteprivacy.it o testate come Agenda Digitale e Cybersecurity360.
+- redhotcyber.com: controlla sempre la data dell'articolo, a volte pubblica contenuti di anni fa che compaiono nelle ricerche sull'attualità.
+- Home page di Agenda Digitale e pagine di elenco dell'EDPB: richiedono un'autorizzazione che nelle esecuzioni automatiche resta senza risposta. Cerca invece l'articolo specifico con WebSearch e aprilo da lì.
+In generale: apri solo URL comparsi nei risultati di ricerca, controlla la data di ogni articolo, e se una pagina non si carica passa a un'altra fonte invece di insistere.
+
 Verifica le notizie importanti su almeno due fonti. Non inventare nulla: se una sezione non ha notizie rilevanti, dillo in una frase e passa oltre.
 
 ## 3. Sezioni, in quest'ordine
