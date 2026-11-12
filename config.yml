@@ -1,7 +1,8 @@
 # Configurazione del podcast "Rassegna Stampa"
 title: "Rassegna Stampa"
-description: "Una breve rassegna stampa indipendente che in meno di 10 minuti ti tiene informato sulle notizie più importanti del giorno"
+description: "Una breve rassegna stampa indipendente che in meno di 10 minuti ti tiene informato sulle notizie più importanti del giorno. Testi curati con l'intelligenza artificiale e letti da una voce sintetica."
 author: "Rassegna Stampa"
+owner_email: "info@giovannidaddabbo.com"
 language: "it-IT"
 
 # Voce principale (Edge TTS). Alternative: it-IT-DiegoNeural, it-IT-ElsaNeural

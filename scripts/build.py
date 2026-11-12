@@ -184,8 +184,14 @@ def build_feed(files) -> None:
     <lastBuildDate>{now}</lastBuildDate>
     <itunes:author>{html.escape(CFG['author'])}</itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:block>Yes</itunes:block>
-    <itunes:category text="News"/>
+    <itunes:owner>
+      <itunes:name>{html.escape(CFG['author'])}</itunes:name>
+      <itunes:email>{html.escape(CFG['owner_email'])}</itunes:email>
+    </itunes:owner>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="News">
+      <itunes:category text="Daily News"/>
+    </itunes:category>
     <itunes:image href="{url}covers/podcast.jpg"/>
     <image>
       <url>{url}covers/podcast.jpg</url>
@@ -197,11 +203,16 @@ def build_feed(files) -> None:
 </rss>
 """
     (DOCS / "feed.xml").write_text(feed, encoding="utf-8")
-    (DOCS / "robots.txt").write_text("User-agent: *\nDisallow: /\n", encoding="utf-8")
+    (DOCS / "robots.txt").write_text("User-agent: *\nAllow: /\n", encoding="utf-8")
     (DOCS / "index.html").write_text(
-        '<!doctype html><meta charset="utf-8"><meta name="robots" content="noindex">'
+        '<!doctype html><html lang="it"><meta charset="utf-8">'
+        '<meta name="viewport" content="width=device-width,initial-scale=1">'
         f"<title>{html.escape(CFG['title'])}</title>"
-        f'<p>Feed privato: <a href="feed.xml">feed.xml</a></p>', encoding="utf-8")
+        f'<link rel="alternate" type="application/rss+xml" href="{url}feed.xml">'
+        '<body style="font-family:system-ui,sans-serif;max-width:640px;margin:40px auto;padding:0 16px">'
+        f'<img src="covers/podcast.jpg" alt="" style="width:100%;max-width:320px;border-radius:12px">'
+        f"<h1>{html.escape(CFG['title'])}</h1><p>{html.escape(CFG['description'])}</p>"
+        f'<p>Feed RSS: <a href="feed.xml">{url}feed.xml</a></p></body></html>', encoding="utf-8")
     (DOCS / ".nojekyll").write_text("", encoding="utf-8")
 
 
