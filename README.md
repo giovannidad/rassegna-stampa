@@ -1,6 +1,6 @@
 # Rassegna Stampa
 
-Rassegna stampa audio di 10 minuti, dal lunedì al venerdì, pubblicata come podcast privato.
+Rassegna stampa audio di 10 minuti, dal lunedì al venerdì, pubblicata come podcast e letta da una voce sintetica (Edge TTS, voce Isabella).
 
 ## Come funziona
 1. Alle 6:30 un'attività pianificata Claude scrive il copione in `episodes/AAAA-MM-GG.md` (istruzioni in `PROMPT.md`).
