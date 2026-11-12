@@ -32,12 +32,20 @@ jobs:
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-dejavu-core
           pip install -q edge-tts piper-tts pyyaml pillow
+          pip install -q torch --index-url https://download.pytorch.org/whl/cpu
+          pip install -q diffusers transformers accelerate
 
       - name: Cache voce Piper
         uses: actions/cache@v4
         with:
           path: .voices
           key: piper-${{ hashFiles('config.yml') }}
+
+      - name: Cache modello copertine
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: sd-turbo-v1
 
       - name: Genera audio e feed
         run: python scripts/build.py

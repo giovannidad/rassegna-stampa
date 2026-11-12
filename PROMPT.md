@@ -50,6 +50,7 @@ Crea `episodes/AAAA-MM-GG.md` esattamente così:
 ---
 title: "Rassegna di [giorno della settimana] [data estesa], es. Rassegna di lunedì 9 novembre 2026"
 summary: "Una riga con i 3-4 temi principali"
+cover_prompt: "In inglese, massimo 20 parole: una scena simbolica fatta solo di oggetti che richiami la notizia principale, senza persone, volti, testo o loghi (es. a cracked padlock on a laptop keyboard beside a European flag)"
 sources:
   - name: "Nome testata - titolo breve"
     url: "https://..."

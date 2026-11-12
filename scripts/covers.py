@@ -1,16 +1,13 @@
 """Copertine del podcast e degli episodi, generate gratis durante GitHub Actions.
 
-Lo sfondo viene da Pollinations.ai (generatore di immagini gratuito, senza chiave);
-la scritta "Rassegna Stampa" e la data vengono aggiunte con Pillow, perché i modelli
-di immagini scrivono male i testi. Se Pollinations non risponde, si usa uno sfondo
-grafico generato in locale: la copertina esce comunque.
+Lo sfondo è disegnato da SD-Turbo, un modello open source di generazione di immagini
+che gira sul processore della macchina di GitHub: nessun account, nessuna chiave,
+nessun costo. La scritta "Rassegna Stampa" e la data vengono aggiunte con Pillow,
+perché i modelli di immagini scrivono male i testi. Se la generazione fallisce si usa
+uno sfondo grafico di riserva: la copertina esce comunque.
 """
 import hashlib
 import random
-import time
-import urllib.parse
-import urllib.request
-from io import BytesIO
 from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
@@ -21,14 +18,16 @@ MESI = ["gennaio", "febbraio", "marzo", "aprile", "maggio", "giugno", "luglio",
         "agosto", "settembre", "ottobre", "novembre", "dicembre"]
 GIORNI = ["lunedì", "martedì", "mercoledì", "giovedì", "venerdì", "sabato", "domenica"]
 
-STYLE = ("editorial illustration for a news podcast, symbolic and abstract, "
-         "muted elegant colors, soft light, magazine cover art, "
-         "no text, no letters, no words, no logos, no recognizable people")
+STYLE = ("editorial magazine cover illustration, symbolic still life, objects only, "
+         "elegant composition, muted colors, soft cinematic light, highly detailed")
+DEFAULT_EPISODE = "a folded newspaper on a desk next to a cup of coffee at sunrise"
 
 SERIF = ["/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf",
          "/usr/share/fonts/truetype/noto/NotoSerif-Bold.ttf"]
 SANS = ["/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
         "/usr/share/fonts/truetype/noto/NotoSans-Regular.ttf"]
+
+_PIPE = None
 
 
 def _font(candidates, size):
@@ -42,19 +41,25 @@ def _seed(text: str) -> int:
     return int(hashlib.sha256(text.encode()).hexdigest()[:8], 16)
 
 
-def _pollinations(prompt: str, seed: int):
-    url = ("https://image.pollinations.ai/prompt/" + urllib.parse.quote(prompt)
-           + f"?width={SIZE}&height={SIZE}&nologo=true&seed={seed}&model=flux")
-    for attempt in range(3):
-        try:
-            req = urllib.request.Request(url, headers={"User-Agent": "rassegna-podcast"})
-            with urllib.request.urlopen(req, timeout=120) as resp:
-                img = Image.open(BytesIO(resp.read())).convert("RGB")
-            return img.resize((SIZE, SIZE), Image.LANCZOS)
-        except Exception as exc:  # noqa: BLE001
-            print(f"  Pollinations tentativo {attempt + 1} fallito: {exc}")
-            time.sleep(10 * (attempt + 1))
-    return None
+def _generate(prompt: str, seed: int):
+    global _PIPE
+    try:
+        import torch
+        from diffusers import AutoPipelineForText2Image
+
+        if _PIPE is None:
+            torch.set_num_threads(max(1, (__import__("os").cpu_count() or 2)))
+            _PIPE = AutoPipelineForText2Image.from_pretrained(
+                "stabilityai/sd-turbo", torch_dtype=torch.float32)
+            _PIPE.set_progress_bar_config(disable=True)
+        gen = torch.Generator("cpu").manual_seed(seed)
+        img = _PIPE(prompt=prompt, num_inference_steps=4, guidance_scale=0.0,
+                    width=512, height=512, generator=gen).images[0]
+        img = img.resize((SIZE, SIZE), Image.LANCZOS)
+        return img.filter(ImageFilter.UnsharpMask(radius=2, percent=60))
+    except Exception as exc:  # noqa: BLE001
+        print(f"  generazione immagine non riuscita: {exc}")
+        return None
 
 
 def _fallback(seed: int):
@@ -98,9 +103,9 @@ def _text(draw, xy, text, font, fill=(255, 255, 255), anchor="ls"):
 
 def podcast_cover(out: Path) -> None:
     seed = 2026
-    prompt = ("stack of folded newspapers and a vintage microphone at dawn, "
-              "warm sunrise light, " + STYLE)
-    img = _pollinations(prompt, seed) or _fallback(seed)
+    prompt = ("a vintage radio microphone in front of a stack of folded newspapers, "
+              "warm sunrise light through a window, " + STYLE)
+    img = _generate(prompt, seed) or _fallback(seed)
     img = _shade(img, 0.35)
     draw = ImageDraw.Draw(img)
     margin = 100
@@ -111,10 +116,10 @@ def podcast_cover(out: Path) -> None:
     img.save(out, "JPEG", quality=88)
 
 
-def episode_cover(day, summary: str, out: Path) -> None:
+def episode_cover(day, scene: str, out: Path) -> None:
     seed = _seed(day.isoformat())
-    prompt = f"Temi del giorno: {summary}. " + STYLE
-    img = _pollinations(prompt[:900], seed) or _fallback(seed)
+    prompt = f"{scene or DEFAULT_EPISODE}, {STYLE}"
+    img = _generate(prompt, seed) or _fallback(seed)
     img = _shade(img, 0.55)
     draw = ImageDraw.Draw(img)
     margin = 90

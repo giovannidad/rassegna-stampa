@@ -135,7 +135,7 @@ def make_covers(files) -> None:
         meta, _ = parse(md)
         print(f"{md.stem}: genero la copertina dell'episodio")
         try:
-            covers.episode_cover(dt.date.fromisoformat(md.stem), meta.get("summary", ""), out)
+            covers.episode_cover(dt.date.fromisoformat(md.stem), meta.get("cover_prompt", ""), out)
         except Exception as exc:  # noqa: BLE001
             print(f"{md.stem}: copertina non generata ({exc})", file=sys.stderr)
 
