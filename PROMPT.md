@@ -1,4 +1,4 @@
-# Istruzioni per l'attività pianificata "Rassegna del mattino"
+# Istruzioni per l'attività pianificata "Rassegna Stampa"
 
 Prepara la rassegna stampa audio di oggi e pubblicala nel repository GitHub `giovannidad/rassegna-stampa`.
 

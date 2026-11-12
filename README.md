@@ -1,4 +1,4 @@
-# Rassegna del mattino
+# Rassegna Stampa
 
 Rassegna stampa audio di 10 minuti, dal lunedì al venerdì, pubblicata come podcast privato.
 
