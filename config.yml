@@ -1,7 +1,7 @@
 # Configurazione del podcast "Rassegna del mattino"
 title: "Rassegna del mattino"
-description: "Rassegna stampa audio di 10 minuti: attualità, tech e cybersecurity, PA digitale e privacy."
-author: "Giovanni"
+description: "Una breve rassegna stampa indipendente che in meno di 10 minuti ti tiene informato sulle notizie più importanti del giorno"
+author: "Rassegna Stampa"
 language: "it-IT"
 
 # Voce principale (Edge TTS). Alternative: it-IT-DiegoNeural, it-IT-ElsaNeural

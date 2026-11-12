@@ -25,10 +25,14 @@ from zoneinfo import ZoneInfo
 
 import yaml
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import covers  # noqa: E402
+
 ROOT = Path(__file__).resolve().parent.parent
 EPISODES = ROOT / "episodes"
 DOCS = ROOT / "docs"
 AUDIO = DOCS / "audio"
+COVERS = DOCS / "covers"
 VOICES = ROOT / ".voices"
 TZ = ZoneInfo("Europe/Rome")
 
@@ -115,7 +119,25 @@ def prune(files):
     for md in files[:-keep] if len(files) > keep else []:
         md.unlink()
         (AUDIO / f"{md.stem}.mp3").unlink(missing_ok=True)
+        (COVERS / f"{md.stem}.jpg").unlink(missing_ok=True)
     return files[-keep:]
+
+
+def make_covers(files) -> None:
+    podcast = COVERS / "podcast.jpg"
+    if not podcast.exists():
+        print("Genero la copertina del podcast")
+        covers.podcast_cover(podcast)
+    for md in files:
+        out = COVERS / f"{md.stem}.jpg"
+        if out.exists():
+            continue
+        meta, _ = parse(md)
+        print(f"{md.stem}: genero la copertina dell'episodio")
+        try:
+            covers.episode_cover(dt.date.fromisoformat(md.stem), meta.get("summary", ""), out)
+        except Exception as exc:  # noqa: BLE001
+            print(f"{md.stem}: copertina non generata ({exc})", file=sys.stderr)
 
 
 def build_feed(files) -> None:
@@ -136,6 +158,9 @@ def build_feed(files) -> None:
             desc += "<p>Fonti:</p><ul>" + "".join(
                 f'<li><a href="{html.escape(s.get("url", ""))}">{html.escape(s.get("name", ""))}</a></li>'
                 for s in sources) + "</ul>"
+        cover = COVERS / f"{md.stem}.jpg"
+        cover_tag = (f'\n      <itunes:image href="{url}covers/{cover.name}?v={int(cover.stat().st_mtime)}"/>'
+                     if cover.exists() else "")
         items.append(f"""    <item>
       <title>{html.escape(title)}</title>
       <description><![CDATA[{desc}]]></description>
@@ -144,7 +169,7 @@ def build_feed(files) -> None:
       <guid isPermaLink="false">rassegna-{md.stem}</guid>
       <pubDate>{format_datetime(pub)}</pubDate>
       <itunes:duration>{duration(mp3)}</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
+      <itunes:explicit>false</itunes:explicit>{cover_tag}
     </item>""")
 
     now = format_datetime(dt.datetime.now(TZ))
@@ -161,6 +186,12 @@ def build_feed(files) -> None:
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
     <itunes:category text="News"/>
+    <itunes:image href="{url}covers/podcast.jpg"/>
+    <image>
+      <url>{url}covers/podcast.jpg</url>
+      <title>{html.escape(CFG['title'])}</title>
+      <link>{url}</link>
+    </image>
 {chr(10).join(items)}
   </channel>
 </rss>
@@ -180,6 +211,7 @@ def main() -> None:
     files = prune(files)
     for md in files:
         synthesize(md)
+    make_covers(files)
     build_feed(files)
     print(f"Feed aggiornato: {base_url()}feed.xml ({len(files)} episodi)")
 

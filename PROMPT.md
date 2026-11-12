@@ -1,6 +1,6 @@
 # Istruzioni per l'attività pianificata "Rassegna del mattino"
 
-Prepara la rassegna stampa audio di oggi per Giovanni e pubblicala nel repository GitHub `giovannidad/rassegna-stampa`.
+Prepara la rassegna stampa audio di oggi e pubblicala nel repository GitHub `giovannidad/rassegna-stampa`.
 
 ## 1. Periodo da coprire
 Usa lo strumento dell'ora corrente per conoscere la data di oggi (fuso Europe/Rome).
@@ -35,8 +35,8 @@ Verifica le notizie importanti su almeno due fonti. Non inventare nulla: se una 
 4. **Sport**: SOLO tennis e rugby, e solo se c'è una notizia davvero rilevante (finali, risultati di italiani nei grandi tornei, Sei Nazioni, test match). Nessun altro sport: niente calcio, Formula 1, MotoGP, basket, ecc. Se non c'è nulla, ometti la sezione.
 
 ## 4. Stile del copione (sarà letto da una voce sintetica)
-- Lunghezza: tra 1300 e 1450 parole (circa 10 minuti). Indicativamente: attualità 40%, tech e cybersecurity 30%, PA digitale e privacy 25%, sport il resto. Approfondisci con contesto e conseguenze invece di aggiungere notizie minori.
-- Apertura: "Buongiorno Giovanni, è [giorno] [data]. Ecco la rassegna del mattino." Chiusura breve: "È tutto per oggi. Buona giornata."
+- Lunghezza: tra 1250 e 1400 parole, così l'episodio resta sotto i 10 minuti; non superare mai le 1400 parole. Indicativamente: attualità 40%, tech e cybersecurity 30%, PA digitale e privacy 25%, sport il resto. Approfondisci con contesto e conseguenze invece di aggiungere notizie minori.
+- Apertura: "Buongiorno, è [giorno] [data]. Ecco la rassegna stampa." Non rivolgerti mai all'ascoltatore per nome. Chiusura breve: "È tutto per oggi. Buona giornata."
 - Frasi brevi e lineari, una notizia per paragrafo, tono da giornale radio, neutrale.
 - Annuncia ogni sezione con una frase di transizione ("Passiamo alla cybersecurity.").
 - Scrivi i numeri in modo leggibile ("tre milioni", "il 12 novembre"); niente URL, elenchi puntati, parentesi, emoji o markdown nel testo letto.

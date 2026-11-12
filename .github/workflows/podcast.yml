@@ -30,8 +30,8 @@ jobs:
 
       - name: Installa dipendenze
         run: |
-          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
-          pip install -q edge-tts piper-tts pyyaml
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-dejavu-core
+          pip install -q edge-tts piper-tts pyyaml pillow
 
       - name: Cache voce Piper
         uses: actions/cache@v4
