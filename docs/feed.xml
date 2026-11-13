@@ -6,7 +6,7 @@
     <atom:link href="https://giovannidad.github.io/rassegna-stampa/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Una breve rassegna stampa indipendente che in meno di 10 minuti ti tiene informato sulle notizie più importanti del giorno. Testi curati con l&#x27;intelligenza artificiale e letti da una voce sintetica.</description>
     <language>it-IT</language>
-    <lastBuildDate>Thu, 12 Nov 2026 09:30:18 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 06:24:09 +0100</lastBuildDate>
     <itunes:author>Rassegna Stampa</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner>
@@ -24,6 +24,17 @@
       <link>https://giovannidad.github.io/rassegna-stampa/</link>
     </image>
     <item>
+      <title>Rassegna di venerdì 13 novembre 2026</title>
+      <description><![CDATA[<p>Falsi allarmi bomba via email in seimila scuole, vertice europeo a Dublino, manovra, vulnerabilità Chrome e Windows, PA digitale e privacy</p><p>Fonti:</p><ul><li><a href="https://ansa.it/sito/notizie/cronaca/2026/11/11/vi-annienteremo-lallarme-bomba-in-6.000-scuole-italiane.-meloni-strategia-per-il-caos_870b0024-72d2-4b15-bab5-0c74dcc1d653.html">ANSA - Allarme bomba in seimila scuole italiane, Meloni: strategia per il caos</a></li><li><a href="https://www.ansa.it/sito/notizie/politica/2026/11/11/terminato-il-vertice-di-maggioranza-sulla-manovra_64424a18-35dc-40ab-9e3a-9d7b0a2f6661.html">ANSA - Terminato il vertice di maggioranza sulla manovra</a></li><li><a href="https://ansa.it/sito/notizie/cronaca/2026/11/11/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html">ANSA - Accade oggi 12 novembre</a></li><li><a href="https://www.irishtimes.com/opinion/editorials/2026/11/10/the-irish-times-view-on-this-weeks-summits-europe-comes-to-dublin/">Irish Times - Europe comes to Dublin</a></li><li><a href="https://www.insurancejournal.com/news/international/2026/11/09/892102.htm">Reuters via Insurance Journal - Newsroom bomb threats and flight hoaxes</a></li><li><a href="https://cybersecuritynews.com/google-chromium-0-day-vulnerability-exploited/">Cybersecurity News - Chromium zero-day sfruttata, avviso CISA</a></li><li><a href="https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html">The Hacker News - SignDrop, exploit pubblico per Windows CLFS</a></li><li><a href="https://www.agendadigitale.eu/sicurezza/privacy/garante-privacy-la-cassazione-chiarisce-termini-e-sanzioni/">Agenda Digitale - Garante privacy, la Cassazione chiarisce termini e sanzioni</a></li><li><a href="https://www.edpb.europa.eu/news/edpb-and-edps-support-streamlining-ai-act-implementation-but-call-for-stronger-safeguards-to_en">EDPB - Parere congiunto EDPB-EDPS sul Digital Omnibus per l&#x27;IA</a></li></ul>]]></description>
+      <itunes:summary>Falsi allarmi bomba via email in seimila scuole, vertice europeo a Dublino, manovra, vulnerabilità Chrome e Windows, PA digitale e privacy</itunes:summary>
+      <enclosure url="https://giovannidad.github.io/rassegna-stampa/audio/2026-11-13.mp3" length="3177792" type="audio/mpeg"/>
+      <guid isPermaLink="false">rassegna-2026-11-13</guid>
+      <pubDate>Fri, 13 Nov 2026 06:30:00 +0100</pubDate>
+      <itunes:duration>529</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-13.jpg?v=1794547448"/>
+    </item>
+    <item>
       <title>Rassegna di giovedì 12 novembre 2026</title>
       <description><![CDATA[<p>Allarmi bomba nelle scuole e vertice Meloni-opposizioni, scambio di prigionieri tra Russia e Ucraina, manovra, falla OpenSSH sfruttata, PNRR e Digital Omnibus, ATP Finals di Torino</p><p>Fonti:</p><ul><li><a href="https://ansa.it/sito/notizie/cronaca/2026/11/11/allarme-bomba-vi-annienteremo-la-mail-inviata-a-oltre-cento-scuole_f222b6df-f984-46ac-9192-6746f70c4074.html">ANSA - Allarme bomba, la mail inviata alle scuole</a></li><li><a href="https://www.ansa.it/sito/notizie/flash/2026/11/11/-attacchi-hacker-domani-meloni-incontra-i-leader-di-opposizione-_eca14c23-c2ce-443d-8de4-6082df96973d.html">ANSA - Attacchi hacker, domani Meloni incontra i leader di opposizione</a></li><li><a href="https://www.ansa.it/sito/notizie/politica/2026/11/11/riunione-a-palazzo-chigi-sugli-allarmi-bomba-nelle-scuole_bbfe404b-b4bf-4df3-b225-a8694c190f74.html">ANSA - Riunione a Palazzo Chigi sugli allarmi bomba nelle scuole</a></li><li><a href="https://www.open.online/2026/11/12/scuola-allarmi-mail-andropov-governo-escalation/">Open - Scuola, allarmi, mail di Andropov e escalation</a></li><li><a href="https://www.adnkronos.com/politica/allarme-bomba-scuole-meloni-vertice-opposizioni-news-oggi_1S4vfq6Dxulm54ySZXTM31">Adnkronos - Allarme bomba nelle scuole, vertice a Palazzo Chigi tra Meloni e opposizioni</a></li><li><a href="https://ansa.it/sito/notizie/ansa_incontra/2026/11/11/le-province-la-manovra-le-scuole-ansa-incontra-con-il-presidente-dellupi-enzo-lattuca_b6130513-e0ff-40f2-8925-d0de6abd4508.html">ANSA - Le province, la manovra, le scuole: ANSA Incontra Lattuca</a></li><li><a href="https://www.ansa.it/ansamed/it/notizie/rubriche/politica/2026/11/12/notiziario-ansamed_90101de0-f7de-480f-8a08-f8d83bb7dcf5.html">ANSAmed - Notiziario politica del 12 novembre</a></li><li><a href="https://www.euronews.com/2026/11/11/abu-dhabi-peace-talks-end-with-prisoner-exchange-agreement-as-us-envoys-prepare-to-meet-pu">Euronews - Colloqui di Abu Dhabi e accordo sullo scambio di prigionieri</a></li><li><a href="https://www.france24.com/en/europe/20261111-russia-and-ukraine-agree-to-major-prisoner-swap-as-peace-talks-end">France 24 - Russia e Ucraina concordano un grande scambio di prigionieri</a></li><li><a href="https://www.justsecurity.org/164111/early-edition-november-11-2026/">Just Security - Early Edition, 11 novembre 2026</a></li><li><a href="https://www.jamma.it/politica/manovra-2027-parte-il-confronto-in-parlamento-giorgetti-il-12-novembre-emendamenti-entro-il-17-ecco-chi-sara-in-audizione-361957">Jamma - Manovra 2027, Giorgetti il 12 novembre, emendamenti entro il 17</a></li><li><a href="https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html">The Hacker News - CISA, sfruttamento attivo di falle in OpenSSH, GPUStack, FreeSWITCH e IBM</a></li><li><a href="https://www.business-standard.com/world-news/meloni-blames-pro-russian-hackers-for-cyberattack-on-foreign-minister-126110701307_1.html">Business Standard - Meloni attribuisce a hacker filorussi l&#x27;attacco al ministro degli Esteri</a></li><li><a href="https://www.cybersecurity360.it/nuove-minacce/attacchi-hacker-il-pericolo-di-gridare-sempre-al-lupo-cosi-la-propaganda-oscura-le-vere-minacce/">Cybersecurity360 - Attacchi hacker, il pericolo di gridare sempre al lupo</a></li><li><a href="https://www.ilfattoquotidiano.it/2026/11/06/attacchi-hacker-banche-italiane-cybersicurezza-notizie/8562740/">Il Fatto Quotidiano - Attacchi hacker alle banche italiane, Quacivi (ACN) avverte il Parlamento</a></li><li><a href="https://www.stampaparlamento.it/2026/09/29/pnrr-trasmessa-alla-commissione-ue-la-richiesta-di-pagamento-dellultima-rata/">Stampa Parlamento - PNRR, trasmessa alla Commissione Ue la richiesta di pagamento dell&#x27;ultima rata</a></li><li><a href="https://www.garanteprivacy.it/comunicati-stampa">Garante Privacy - Comunicati stampa</a></li><li><a href="https://www.agendadigitale.eu/sicurezza/privacy/digital-omnibus-come-procede-liter-in-europa-le-novita-piu-importanti/">Agenda Digitale - Digital omnibus, come procede l&#x27;iter in Europa</a></li><li><a href="https://www.lapresse.it/sport/tennis/2026/11/11/atp-finals-2026-il-sorteggio-il-12-novembre-programma-partecipanti-e-biglietti/">LaPresse - ATP Finals 2026, il sorteggio il 12 novembre</a></li><li><a href="https://www.sportmediaset.mediaset.it/tennis/atp-finals-forfait-sinner-djokovic-pechino-race-torino_117362688-202602k.shtml">Sportmediaset - Sinner salta le ATP Finals</a></li><li><a href="https://www.onrugby.it/2026/11/09/nations-championship-i-risultati-e-le-classifiche-dopo-la-quarta-giornata/">OnRugby - Nations Championship, risultati dopo la quarta giornata</a></li></ul>]]></description>
       <itunes:summary>Allarmi bomba nelle scuole e vertice Meloni-opposizioni, scambio di prigionieri tra Russia e Ucraina, manovra, falla OpenSSH sfruttata, PNRR e Digital Omnibus, ATP Finals di Torino</itunes:summary>
@@ -32,7 +43,7 @@
       <pubDate>Thu, 12 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>545</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-12.jpg?v=1794472113"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-12.jpg?v=1794547258"/>
     </item>
     <item>
       <title>Rassegna di mercoledì 11 novembre 2026</title>
@@ -43,7 +54,7 @@
       <pubDate>Wed, 11 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>584</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-11.jpg?v=1794472113"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-11.jpg?v=1794547258"/>
     </item>
     <item>
       <title>Rassegna di martedì 10 novembre 2026</title>
@@ -54,7 +65,7 @@
       <pubDate>Tue, 10 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>540</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-10.jpg?v=1794472113"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-10.jpg?v=1794547258"/>
     </item>
     <item>
       <title>Rassegna di lunedì 9 novembre 2026</title>
@@ -65,7 +76,7 @@
       <pubDate>Mon, 09 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>540</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-09.jpg?v=1794472113"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-09.jpg?v=1794547258"/>
     </item>
     <item>
       <title>Rassegna del sabato 7 novembre 2026</title>
@@ -76,7 +87,7 @@
       <pubDate>Sat, 07 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>298</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-07.jpg?v=1794472113"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-07.jpg?v=1794547258"/>
     </item>
   </channel>
 </rss>
