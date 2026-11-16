@@ -6,7 +6,7 @@
     <atom:link href="https://giovannidad.github.io/rassegna-stampa/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Una breve rassegna stampa indipendente che in meno di 10 minuti ti tiene informato sulle notizie più importanti del giorno. Testi curati con l&#x27;intelligenza artificiale e letti da una voce sintetica.</description>
     <language>it-IT</language>
-    <lastBuildDate>Fri, 13 Nov 2026 06:24:09 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 06:17:22 +0100</lastBuildDate>
     <itunes:author>Rassegna Stampa</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner>
@@ -24,6 +24,17 @@
       <link>https://giovannidad.github.io/rassegna-stampa/</link>
     </image>
     <item>
+      <title>Rassegna di lunedì 16 novembre 2026</title>
+      <description><![CDATA[<p>Falsi allarmi bomba e guerra ibrida, vertice informale Ue a Dublino, manovra e sindacati, maltempo, falle Chrome e OpenSSH, AI Act</p><p>Fonti:</p><ul><li><a href="https://www.ansa.it/english">ANSA English - Top stories del 13 novembre</a></li><li><a href="https://www.thelocal.it/20261112/classes-resume-across-italy-after-hoax-bomb-threats-sent-to-6000-schools">The Local Italia - Classes resume across Italy after hoax bomb threats</a></li><li><a href="https://www.aljazeera.com/news/2026/11/12/more-than-1800-italian-schools-targeted-by-new-hoax-bomb-alerts">Al Jazeera - More than 1,800 Italian schools targeted by new hoax bomb alerts</a></li><li><a href="https://www.ansa.it/english/newswire/english_service/2026/11/09/ansagovt-prepares-to-fight-back-against-hybrid-war_07e10739-4bb5-4fdb-a4ae-f95e4654f4d7.html">ANSA - Govt prepares to fight back against hybrid war</a></li><li><a href="https://euobserver.com/248409/first-talks-about-eu-envoy-on-ukraine-war-to-dominate-dublin-summits/">EUobserver - First talks about EU envoy on Ukraine war to dominate Dublin summits</a></li><li><a href="https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html">The Hacker News - Weekly recap: SSHole, APT, Zyxel</a></li><li><a href="https://thehackernews.com/search/label/Zero-Day?hl=en_GB">The Hacker News - Zero-Day, ultime notizie</a></li><li><a href="https://digital-strategy.ec.europa.eu/en/news/eu-agrees-simplify-ai-rules-boost-innovation-and-ban-nudification-apps-protect-citizens">Commissione europea - Accordo sull&#x27;Omnibus digitale per l&#x27;IA</a></li></ul>]]></description>
+      <itunes:summary>Falsi allarmi bomba e guerra ibrida, vertice informale Ue a Dublino, manovra e sindacati, maltempo, falle Chrome e OpenSSH, AI Act</itunes:summary>
+      <enclosure url="https://giovannidad.github.io/rassegna-stampa/audio/2026-11-16.mp3" length="3268800" type="audio/mpeg"/>
+      <guid isPermaLink="false">rassegna-2026-11-16</guid>
+      <pubDate>Mon, 16 Nov 2026 06:30:00 +0100</pubDate>
+      <itunes:duration>544</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-16.jpg?v=1794806241"/>
+    </item>
+    <item>
       <title>Rassegna di venerdì 13 novembre 2026</title>
       <description><![CDATA[<p>Falsi allarmi bomba via email in seimila scuole, vertice europeo a Dublino, manovra, vulnerabilità Chrome e Windows, PA digitale e privacy</p><p>Fonti:</p><ul><li><a href="https://ansa.it/sito/notizie/cronaca/2026/11/11/vi-annienteremo-lallarme-bomba-in-6.000-scuole-italiane.-meloni-strategia-per-il-caos_870b0024-72d2-4b15-bab5-0c74dcc1d653.html">ANSA - Allarme bomba in seimila scuole italiane, Meloni: strategia per il caos</a></li><li><a href="https://www.ansa.it/sito/notizie/politica/2026/11/11/terminato-il-vertice-di-maggioranza-sulla-manovra_64424a18-35dc-40ab-9e3a-9d7b0a2f6661.html">ANSA - Terminato il vertice di maggioranza sulla manovra</a></li><li><a href="https://ansa.it/sito/notizie/cronaca/2026/11/11/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html">ANSA - Accade oggi 12 novembre</a></li><li><a href="https://www.irishtimes.com/opinion/editorials/2026/11/10/the-irish-times-view-on-this-weeks-summits-europe-comes-to-dublin/">Irish Times - Europe comes to Dublin</a></li><li><a href="https://www.insurancejournal.com/news/international/2026/11/09/892102.htm">Reuters via Insurance Journal - Newsroom bomb threats and flight hoaxes</a></li><li><a href="https://cybersecuritynews.com/google-chromium-0-day-vulnerability-exploited/">Cybersecurity News - Chromium zero-day sfruttata, avviso CISA</a></li><li><a href="https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html">The Hacker News - SignDrop, exploit pubblico per Windows CLFS</a></li><li><a href="https://www.agendadigitale.eu/sicurezza/privacy/garante-privacy-la-cassazione-chiarisce-termini-e-sanzioni/">Agenda Digitale - Garante privacy, la Cassazione chiarisce termini e sanzioni</a></li><li><a href="https://www.edpb.europa.eu/news/edpb-and-edps-support-streamlining-ai-act-implementation-but-call-for-stronger-safeguards-to_en">EDPB - Parere congiunto EDPB-EDPS sul Digital Omnibus per l&#x27;IA</a></li></ul>]]></description>
       <itunes:summary>Falsi allarmi bomba via email in seimila scuole, vertice europeo a Dublino, manovra, vulnerabilità Chrome e Windows, PA digitale e privacy</itunes:summary>
@@ -32,7 +43,7 @@
       <pubDate>Fri, 13 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>529</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-13.jpg?v=1794547448"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-13.jpg?v=1794806061"/>
     </item>
     <item>
       <title>Rassegna di giovedì 12 novembre 2026</title>
@@ -43,7 +54,7 @@
       <pubDate>Thu, 12 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>545</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-12.jpg?v=1794547258"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-12.jpg?v=1794806061"/>
     </item>
     <item>
       <title>Rassegna di mercoledì 11 novembre 2026</title>
@@ -54,7 +65,7 @@
       <pubDate>Wed, 11 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>584</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-11.jpg?v=1794547258"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-11.jpg?v=1794806061"/>
     </item>
     <item>
       <title>Rassegna di martedì 10 novembre 2026</title>
@@ -65,7 +76,7 @@
       <pubDate>Tue, 10 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>540</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-10.jpg?v=1794547258"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-10.jpg?v=1794806061"/>
     </item>
     <item>
       <title>Rassegna di lunedì 9 novembre 2026</title>
@@ -76,7 +87,7 @@
       <pubDate>Mon, 09 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>540</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-09.jpg?v=1794547258"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-09.jpg?v=1794806061"/>
     </item>
     <item>
       <title>Rassegna del sabato 7 novembre 2026</title>
@@ -87,7 +98,7 @@
       <pubDate>Sat, 07 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>298</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-07.jpg?v=1794547258"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-07.jpg?v=1794806061"/>
     </item>
   </channel>
 </rss>
