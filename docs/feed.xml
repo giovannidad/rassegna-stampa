@@ -6,7 +6,7 @@
     <atom:link href="https://giovannidad.github.io/rassegna-stampa/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Una breve rassegna stampa indipendente che in meno di 10 minuti ti tiene informato sulle notizie più importanti del giorno. Testi curati con l&#x27;intelligenza artificiale e letti da una voce sintetica.</description>
     <language>it-IT</language>
-    <lastBuildDate>Mon, 16 Nov 2026 06:17:22 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 08:50:11 +0100</lastBuildDate>
     <itunes:author>Rassegna Stampa</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner>
@@ -24,6 +24,17 @@
       <link>https://giovannidad.github.io/rassegna-stampa/</link>
     </image>
     <item>
+      <title>Rassegna di martedì 17 novembre 2026</title>
+      <description><![CDATA[<p>Revolut in amministrazione giudiziaria, allarme Usa su piani iraniani, raid contro una tv turca, sanzioni Ue alla Russia, falle nei controller di refrigerazione, provvedimenti del Garante</p><p>Fonti:</p><ul><li><a href="https://www.ansa.it/sito/notizie/cronaca/2026/11/16/riciclaggio-con-aggravante-mafiosa-amministrazione-giudiziaria-per-revolut_826ace80-1187-47af-9cab-866fe3539d56.html">ANSA - Commissariata Revolut, rapporti con indagati per riciclaggio aggravato dal metodo mafioso</a></li><li><a href="https://www.ilfattoquotidiano.it/2026/11/16/revolut-amministrazione-giudiziaria-riciclaggio-mafia-notizie/8573320/">Il Fatto Quotidiano - Disposta l&#x27;amministrazione giudiziaria per Revolut</a></li><li><a href="https://www.ansa.it/sito/notizie/mondo/2026/11/17/007-usa-iran-sta-sviluppando-piani-per-bomba-sporca-a-washington_187bd30b-f38c-4795-85cd-e36ed45edec5.html">ANSA - Gli 007 americani avvertono: l&#x27;Iran sta sviluppando piani per una bomba sporca a Washington</a></li><li><a href="https://www.ansa.it/sito/notizie/mondo/europa/2026/11/17/polizia-turca-nella-sede-di-una-tv-di-opposizione-arrestati-i-dirigenti_52a71bd5-8264-4062-90cc-a8a59015de72.html">ANSA - Polizia turca nella sede di una tv di opposizione, arrestati i dirigenti</a></li><li><a href="https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/11/17/prime-pagine-chiesto-larresto-dellex-capo-della-polizia-de-gennaro-il-gip_51dd0334-28dc-4e17-991c-fc5996b33dd6.html">ANSA - Prime pagine del 17 novembre</a></li><li><a href="https://www.eurointegration.com.ua/eng/news/2026/11/13/7249927/">Eurointegration - EU foreign ministers to discuss strengthening air defence and winter aid for Ukraine</a></li><li><a href="https://www.blogsicilia.it/oltrelostretto/manovra-2027-scuola-misura-ritirata-meloni-sciopero-20-novembre/1325498/">Blog Sicilia - Manovra, il governo toglie la misura sulla scuola, la Cgil conferma lo sciopero</a></li><li><a href="https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/">SecurityWeek - Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers</a></li><li><a href="https://bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million">BleepingComputer - Maersk confirms data breach as WhiteArmor ransomware demands 5 million</a></li><li><a href="https://www.garanteprivacy.it/garante/doc.jsp?ID=10319176">Garante privacy - Newsletter del 12 novembre 2026</a></li></ul>]]></description>
+      <itunes:summary>Revolut in amministrazione giudiziaria, allarme Usa su piani iraniani, raid contro una tv turca, sanzioni Ue alla Russia, falle nei controller di refrigerazione, provvedimenti del Garante</itunes:summary>
+      <enclosure url="https://giovannidad.github.io/rassegna-stampa/audio/2026-11-17.mp3" length="3173616" type="audio/mpeg"/>
+      <guid isPermaLink="false">rassegna-2026-11-17</guid>
+      <pubDate>Tue, 17 Nov 2026 06:30:00 +0100</pubDate>
+      <itunes:duration>528</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-17.jpg?v=1794901811"/>
+    </item>
+    <item>
       <title>Rassegna di lunedì 16 novembre 2026</title>
       <description><![CDATA[<p>Falsi allarmi bomba e guerra ibrida, vertice informale Ue a Dublino, manovra e sindacati, maltempo, falle Chrome e OpenSSH, AI Act</p><p>Fonti:</p><ul><li><a href="https://www.ansa.it/english">ANSA English - Top stories del 13 novembre</a></li><li><a href="https://www.thelocal.it/20261112/classes-resume-across-italy-after-hoax-bomb-threats-sent-to-6000-schools">The Local Italia - Classes resume across Italy after hoax bomb threats</a></li><li><a href="https://www.aljazeera.com/news/2026/11/12/more-than-1800-italian-schools-targeted-by-new-hoax-bomb-alerts">Al Jazeera - More than 1,800 Italian schools targeted by new hoax bomb alerts</a></li><li><a href="https://www.ansa.it/english/newswire/english_service/2026/11/09/ansagovt-prepares-to-fight-back-against-hybrid-war_07e10739-4bb5-4fdb-a4ae-f95e4654f4d7.html">ANSA - Govt prepares to fight back against hybrid war</a></li><li><a href="https://euobserver.com/248409/first-talks-about-eu-envoy-on-ukraine-war-to-dominate-dublin-summits/">EUobserver - First talks about EU envoy on Ukraine war to dominate Dublin summits</a></li><li><a href="https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html">The Hacker News - Weekly recap: SSHole, APT, Zyxel</a></li><li><a href="https://thehackernews.com/search/label/Zero-Day?hl=en_GB">The Hacker News - Zero-Day, ultime notizie</a></li><li><a href="https://digital-strategy.ec.europa.eu/en/news/eu-agrees-simplify-ai-rules-boost-innovation-and-ban-nudification-apps-protect-citizens">Commissione europea - Accordo sull&#x27;Omnibus digitale per l&#x27;IA</a></li></ul>]]></description>
       <itunes:summary>Falsi allarmi bomba e guerra ibrida, vertice informale Ue a Dublino, manovra e sindacati, maltempo, falle Chrome e OpenSSH, AI Act</itunes:summary>
@@ -32,7 +43,7 @@
       <pubDate>Mon, 16 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>544</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-16.jpg?v=1794806241"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-16.jpg?v=1794901623"/>
     </item>
     <item>
       <title>Rassegna di venerdì 13 novembre 2026</title>
@@ -43,7 +54,7 @@
       <pubDate>Fri, 13 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>529</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-13.jpg?v=1794806061"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-13.jpg?v=1794901623"/>
     </item>
     <item>
       <title>Rassegna di giovedì 12 novembre 2026</title>
@@ -54,7 +65,7 @@
       <pubDate>Thu, 12 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>545</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-12.jpg?v=1794806061"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-12.jpg?v=1794901623"/>
     </item>
     <item>
       <title>Rassegna di mercoledì 11 novembre 2026</title>
@@ -65,7 +76,7 @@
       <pubDate>Wed, 11 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>584</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-11.jpg?v=1794806061"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-11.jpg?v=1794901623"/>
     </item>
     <item>
       <title>Rassegna di martedì 10 novembre 2026</title>
@@ -76,7 +87,7 @@
       <pubDate>Tue, 10 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>540</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-10.jpg?v=1794806061"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-10.jpg?v=1794901623"/>
     </item>
     <item>
       <title>Rassegna di lunedì 9 novembre 2026</title>
@@ -87,7 +98,7 @@
       <pubDate>Mon, 09 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>540</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-09.jpg?v=1794806061"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-09.jpg?v=1794901623"/>
     </item>
     <item>
       <title>Rassegna del sabato 7 novembre 2026</title>
@@ -98,7 +109,7 @@
       <pubDate>Sat, 07 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>298</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-07.jpg?v=1794806061"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-07.jpg?v=1794901623"/>
     </item>
   </channel>
 </rss>
