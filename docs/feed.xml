@@ -6,7 +6,7 @@
     <atom:link href="https://giovannidad.github.io/rassegna-stampa/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Una breve rassegna stampa indipendente che in meno di 10 minuti ti tiene informato sulle notizie più importanti del giorno. Testi curati con l&#x27;intelligenza artificiale e letti da una voce sintetica.</description>
     <language>it-IT</language>
-    <lastBuildDate>Wed, 18 Nov 2026 06:17:10 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 06:23:56 +0100</lastBuildDate>
     <itunes:author>Rassegna Stampa</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner>
@@ -24,6 +24,17 @@
       <link>https://giovannidad.github.io/rassegna-stampa/</link>
     </image>
     <item>
+      <title>Rassegna di giovedì 19 novembre 2026</title>
+      <description><![CDATA[<p>Sciopero generale della Cgil, vertice Trump Xi Putin a Shenzhen, falle Puppet e Cisco sfruttate, PNRR e Garante, ATP Finals</p><p>Fonti:</p><ul><li><a href="https://quifinanza.it/info-utili/scioperi/sciopero-generale-20-novembre-2026-chi-si-ferma/1022558/">QuiFinanza - Sciopero generale del 20 novembre 2026, chi si ferma</a></li><li><a href="https://ansa.it/sito/notizie/politica/2026/11/18/meloni-noi-lavoriamo-per-abbassare-le-tasse-la-sinistra-litiga-sulla-patrimoniale_79484ec4-7a51-4c0b-a6f3-c8efec3b5cdd.html">ANSA - Meloni e Landini sulla patrimoniale, 18 novembre</a></li><li><a href="https://ansa.it/sito/notizie/topnews/2026/11/18/meloni-il-24-presiede-la-conferenza-stato-citta-a-p.chigi_ed60f6d4-9482-4b7a-b2ef-270c099e2dd0.html">ANSA - Conferenza Stato-Città il 24 novembre a Palazzo Chigi</a></li><li><a href="https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect">Al Jazeera - Incontro Trump Xi Putin all&#x27;APEC, cosa aspettarsi</a></li><li><a href="https://chinaglobalsouth.com/2026/11/16/2026-apec-summit-shenzhen-china/">China-Global South Project - APEC a Shenzhen</a></li><li><a href="https://kyivindependent.com/endless-us-russia-talks-leave-europe-scrambling-for-a-role-in-ukraine-peace-push/">Kyiv Independent - Europa e negoziati sull&#x27;Ucraina</a></li><li><a href="https://cybersecuritynews.com/puppet-enterprise-flaw-actively-exploited/">Cyber Security News - Puppet Enterprise, falla sfruttata</a></li><li><a href="https://www.govinfosecurity.com/cisa-orders-patch-for-cisco-flaw-tied-to-ai-agent-attack-a-33364">GovInfoSecurity - CISA ordina la correzione della falla Cisco BroadWorks</a></li><li><a href="https://www.infosecurity-magazine.com/news/operation-snowball-ai-telecom/">Infosecurity Magazine - Operation Snowball, agente IA contro un operatore telefonico europeo</a></li><li><a href="https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html">The Hacker News - Falle Cisco BroadWorks e Openwave sfruttate</a></li><li><a href="https://www.teleborsa.it/DettaglioNews/221_2026-09-29_TLB/PNRR-inviata-a-Commissione-Ue-richiesta-pagamento-ultima-rata.html">Teleborsa - PNRR, inviata la richiesta di pagamento dell&#x27;ultima rata</a></li><li><a href="https://www.garanteprivacy.it/garante/doc.jsp?ID=10319176">Garante privacy - Newsletter del 12 novembre 2026</a></li><li><a href="https://www.tennismajors.com/atp/nitto-atp-finals-atp/tiafoe-crushes-cobolli-in-front-on-italian-crowd-alcaraz-qualified-as-group-winner-at-the-atp-finals-867257.html">Tennis Majors - Tiafoe batte Cobolli, Alcaraz primo del girone</a></li><li><a href="https://www.nst.com.my/amp/sports/racquet-sports/2026/11/1579293/alcaraz-sweeps-aside-tiafoe-atp-finals-demonstration-force">Nation - Alcaraz batte Tiafoe alle ATP Finals</a></li></ul>]]></description>
+      <itunes:summary>Sciopero generale della Cgil, vertice Trump Xi Putin a Shenzhen, falle Puppet e Cisco sfruttate, PNRR e Garante, ATP Finals</itunes:summary>
+      <enclosure url="https://giovannidad.github.io/rassegna-stampa/audio/2026-11-19.mp3" length="3283200" type="audio/mpeg"/>
+      <guid isPermaLink="false">rassegna-2026-11-19</guid>
+      <pubDate>Thu, 19 Nov 2026 06:30:00 +0100</pubDate>
+      <itunes:duration>547</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-19.jpg?v=1795065835"/>
+    </item>
+    <item>
       <title>Rassegna di mercoledì 18 novembre 2026</title>
       <description><![CDATA[<p>Manovra e ddl antisemitismo, vertice a tre in Cina, attacchi informatici a Maileva e Optimizely, multa del Garante a Meta, ATP Finals</p><p>Fonti:</p><ul><li><a href="https://www.ansa.it/sito/notizie/politica/politica.shtml">ANSA - Politica, notizie del 17 e 18 novembre</a></li><li><a href="https://www.riotimesonline.com/europe-intelligence-brief-tuesday-november-17-2026/">Rio Times - Europe Intelligence Brief 17 novembre</a></li><li><a href="https://www.wdbj7.com/2026/11/14/trump-xi-putin-plan-an-unprecedented-joint-meeting-white-house-says/?outputType=amp">AP - Trump, Xi e Putin, incontro a tre</a></li><li><a href="https://cybersecuritynews.com/apache-http-server-rce-exploitation/">Cybersecurity News - Apache HTTP Server, vulnerabilità sfruttata</a></li><li><a href="https://www.securityweek.com/optimizely-vulnerability-exploited-to-serve-malware-on-major-websites/">SecurityWeek - Optimizely sfruttata per diffondere malware</a></li><li><a href="https://fr.euronews.com/2026/11/15/cyberattaque-sur-maileva-filiale-de-la-poste-22-millions-de-personnes-touchees-par-des-vol">Euronews - Cyberattaque sur Maileva</a></li><li><a href="https://ansa.it/sito/notizie/politica/2026/11/14/garante-805-milioni-di-multa-a-meta-per-luso-di-foto-su-fb-senza-consenso_c28909e5-4d3b-4ec6-9d7c-e23ea349b64d.html">ANSA - Garante, 805 milioni di multa a Meta</a></li><li><a href="https://agendadigitale.eu/sicurezza/meta-805-milioni-di-multa-il-garante-supera-lo-sportello-unico-del-gdpr">Agenda Digitale - Meta, 805 milioni di multa e sportello unico</a></li><li><a href="https://shattered.io/it/ai-act-italia-dlgs-179-2026-acn-agid/">Shattered - AI Act Italia, decreto legislativo 179 del 2026</a></li><li><a href="https://www.livetennis.it/post/475975/atp-finals-2026-torino-i-risultati-completi-con-il-dettaglio-della-terza-giornata-arribage-e-olivetti-battono-luz-e-matos-giovedi-lo-spareggio-con-heliovaara-e-patten-arevalo-e-pavic-rimontano-h/">LiveTennis - ATP Finals 2026, terza giornata</a></li><li><a href="https://www.torino.plus/2026/11/atp-finals-torino-2026-sinner-cobolli-classifica.html">Torino Plus - ATP Finals, Cobolli e classifica</a></li></ul>]]></description>
       <itunes:summary>Manovra e ddl antisemitismo, vertice a tre in Cina, attacchi informatici a Maileva e Optimizely, multa del Garante a Meta, ATP Finals</itunes:summary>
@@ -32,7 +43,7 @@
       <pubDate>Wed, 18 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>541</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-18.jpg?v=1794979029"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-18.jpg?v=1795065630"/>
     </item>
     <item>
       <title>Rassegna di martedì 17 novembre 2026</title>
@@ -43,7 +54,7 @@
       <pubDate>Tue, 17 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>528</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-17.jpg?v=1794978825"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-17.jpg?v=1795065630"/>
     </item>
     <item>
       <title>Rassegna di lunedì 16 novembre 2026</title>
@@ -54,7 +65,7 @@
       <pubDate>Mon, 16 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>544</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-16.jpg?v=1794978825"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-16.jpg?v=1795065630"/>
     </item>
     <item>
       <title>Rassegna di venerdì 13 novembre 2026</title>
@@ -65,7 +76,7 @@
       <pubDate>Fri, 13 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>529</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-13.jpg?v=1794978825"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-13.jpg?v=1795065630"/>
     </item>
     <item>
       <title>Rassegna di giovedì 12 novembre 2026</title>
@@ -76,7 +87,7 @@
       <pubDate>Thu, 12 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>545</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-12.jpg?v=1794978825"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-12.jpg?v=1795065630"/>
     </item>
     <item>
       <title>Rassegna di mercoledì 11 novembre 2026</title>
@@ -87,7 +98,7 @@
       <pubDate>Wed, 11 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>584</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-11.jpg?v=1794978825"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-11.jpg?v=1795065630"/>
     </item>
     <item>
       <title>Rassegna di martedì 10 novembre 2026</title>
@@ -98,7 +109,7 @@
       <pubDate>Tue, 10 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>540</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-10.jpg?v=1794978825"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-10.jpg?v=1795065630"/>
     </item>
     <item>
       <title>Rassegna di lunedì 9 novembre 2026</title>
@@ -109,7 +120,7 @@
       <pubDate>Mon, 09 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>540</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-09.jpg?v=1794978825"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-09.jpg?v=1795065630"/>
     </item>
     <item>
       <title>Rassegna del sabato 7 novembre 2026</title>
@@ -120,7 +131,7 @@
       <pubDate>Sat, 07 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>298</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-07.jpg?v=1794978825"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-07.jpg?v=1795065630"/>
     </item>
   </channel>
 </rss>
