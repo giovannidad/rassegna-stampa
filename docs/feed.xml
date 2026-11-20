@@ -6,7 +6,7 @@
     <atom:link href="https://giovannidad.github.io/rassegna-stampa/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Una breve rassegna stampa indipendente che in meno di 10 minuti ti tiene informato sulle notizie più importanti del giorno. Testi curati con l&#x27;intelligenza artificiale e letti da una voce sintetica.</description>
     <language>it-IT</language>
-    <lastBuildDate>Thu, 19 Nov 2026 06:23:56 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 06:30:54 +0100</lastBuildDate>
     <itunes:author>Rassegna Stampa</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner>
@@ -24,6 +24,17 @@
       <link>https://giovannidad.github.io/rassegna-stampa/</link>
     </image>
     <item>
+      <title>Rassegna di venerdì 20 novembre 2026</title>
+      <description><![CDATA[<p>Sciopero generale, vertice di maggioranza sulla manovra e voto sugli e-book, falle VMware e N-able, calendario dell&#x27;AI Act, ATP Finals</p><p>Fonti:</p><ul><li><a href="https://ansa.it/sito/notizie/economia/2026/11/19/sciopero-generale-da-scuola-a-bus.-treni-dalla-sera-niente-stop-aerei_01d5c5ed-72b4-4546-acc1-472847a25848.html">ANSA - Sciopero generale, da scuola a bus, treni dalla sera, niente stop aerei</a></li><li><a href="https://www.ansa.it/sito/notizie/politica/2026/11/19/focus-su-pensioni-e-sanita-al-vertice-di-maggioranza-meloni-chiede-basta-divisioni_f14af22e-5fa1-4851-b2a1-60f52ce6bb6e.html">ANSA - Vertice di maggioranza, focus su pensioni e sanità</a></li><li><a href="https://www.ansa.it/sito/notizie/politica/2026/11/19/meloni-estenderemo-a-regioni-centro-nord-modello-zes-unica_d0c71f8d-ae59-4e3e-89ee-c40c61f36fa4.html">ANSA - Meloni, estenderemo al Centro-Nord il modello della Zes unica</a></li><li><a href="https://ansa.it/sito/notizie/politica/2026/11/19/fdi-si-impunta-sugli-e-book-si-spacca-la-maggioranza-al-senato_4d6a9907-292e-412f-a4b1-59b4888955ac.html">ANSA - FdI si impunta sugli e-book, si spacca la maggioranza al Senato</a></li><li><a href="https://www.ansa.it/nuova_europa/it/notizie/nazioni/ucraina/2026/11/19/meloni-al-vertice-dei-volenterosi-breve-colloquio-con-zelensky-e-saluto-con_30eacbfc-48c0-46fe-ade5-14a69e7fae9e.html">ANSA - Meloni al vertice dei Volenterosi, breve colloquio con Zelensky</a></li><li><a href="https://www.cnbc.com/2026/11/19/trump-xi-putin-trilateral-meeting-china.html">CNBC - Trump, Xi e Putin dopo i colloqui trilaterali</a></li><li><a href="https://www.cbc.ca/news/world/trump-xi-putin-apec-meeting-9.7427718">CBC - Dichiarazione Xi, Trump, Putin dopo l&#x27;incontro APEC</a></li><li><a href="https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/">BleepingComputer - Broadcom corregge la falla zero-day di VMware vCenter</a></li><li><a href="https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/">SecurityWeek - Falla VMware vCenter sfruttata come zero-day</a></li><li><a href="https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/">BleepingComputer - N-able 4EverAble2Shell sfruttata poche ore dopo il PoC</a></li><li><a href="https://www.cybersecurity360.it/nuove-minacce/cyberattacchi-viminale-piu-controlli-su-45mila-sistemi-e-servizi-a-rischio/">Cybersecurity360 - Viminale, più controlli su 45mila sistemi a rischio</a></li><li><a href="https://www.nicfab.eu/en/posts/digital-omnibus-ai-official-journal/">NicFab - Digital Omnibus on AI, regolamento 2026/1744 in Gazzetta ufficiale</a></li><li><a href="https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/10313206">Garante privacy - Newsletter n. 555 del 29 ottobre 2026</a></li><li><a href="https://www.tennismajors.com/atp/nitto-atp-finals-atp/fils-eliminated-shelton-into-the-atp-finals-semi-finals-after-zverev-takes-the-first-set-867361.html">Tennis Majors - Zverev contro Fils, Shelton in semifinale</a></li><li><a href="https://www.tennismajors.com/atp/nitto-atp-finals-atp/ill-be-watching-arthur-shelton-edges-jodar-and-leaves-fils-needing-a-straight-sets-win-over-zverev-867320.html">Tennis Majors - Shelton supera Jodar</a></li><li><a href="https://www.tennismajors.com/atp/nitto-atp-finals-atp/alcaraz-undergoes-mri-on-hamstring-and-cancels-training-his-atp-finals-in-the-balance-report-867311.html">Tennis Majors - Alcaraz, risonanza magnetica al flessore</a></li></ul>]]></description>
+      <itunes:summary>Sciopero generale, vertice di maggioranza sulla manovra e voto sugli e-book, falle VMware e N-able, calendario dell&#x27;AI Act, ATP Finals</itunes:summary>
+      <enclosure url="https://giovannidad.github.io/rassegna-stampa/audio/2026-11-20.mp3" length="3271824" type="audio/mpeg"/>
+      <guid isPermaLink="false">rassegna-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 06:30:00 +0100</pubDate>
+      <itunes:duration>545</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-20.jpg?v=1795152654"/>
+    </item>
+    <item>
       <title>Rassegna di giovedì 19 novembre 2026</title>
       <description><![CDATA[<p>Sciopero generale della Cgil, vertice Trump Xi Putin a Shenzhen, falle Puppet e Cisco sfruttate, PNRR e Garante, ATP Finals</p><p>Fonti:</p><ul><li><a href="https://quifinanza.it/info-utili/scioperi/sciopero-generale-20-novembre-2026-chi-si-ferma/1022558/">QuiFinanza - Sciopero generale del 20 novembre 2026, chi si ferma</a></li><li><a href="https://ansa.it/sito/notizie/politica/2026/11/18/meloni-noi-lavoriamo-per-abbassare-le-tasse-la-sinistra-litiga-sulla-patrimoniale_79484ec4-7a51-4c0b-a6f3-c8efec3b5cdd.html">ANSA - Meloni e Landini sulla patrimoniale, 18 novembre</a></li><li><a href="https://ansa.it/sito/notizie/topnews/2026/11/18/meloni-il-24-presiede-la-conferenza-stato-citta-a-p.chigi_ed60f6d4-9482-4b7a-b2ef-270c099e2dd0.html">ANSA - Conferenza Stato-Città il 24 novembre a Palazzo Chigi</a></li><li><a href="https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect">Al Jazeera - Incontro Trump Xi Putin all&#x27;APEC, cosa aspettarsi</a></li><li><a href="https://chinaglobalsouth.com/2026/11/16/2026-apec-summit-shenzhen-china/">China-Global South Project - APEC a Shenzhen</a></li><li><a href="https://kyivindependent.com/endless-us-russia-talks-leave-europe-scrambling-for-a-role-in-ukraine-peace-push/">Kyiv Independent - Europa e negoziati sull&#x27;Ucraina</a></li><li><a href="https://cybersecuritynews.com/puppet-enterprise-flaw-actively-exploited/">Cyber Security News - Puppet Enterprise, falla sfruttata</a></li><li><a href="https://www.govinfosecurity.com/cisa-orders-patch-for-cisco-flaw-tied-to-ai-agent-attack-a-33364">GovInfoSecurity - CISA ordina la correzione della falla Cisco BroadWorks</a></li><li><a href="https://www.infosecurity-magazine.com/news/operation-snowball-ai-telecom/">Infosecurity Magazine - Operation Snowball, agente IA contro un operatore telefonico europeo</a></li><li><a href="https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html">The Hacker News - Falle Cisco BroadWorks e Openwave sfruttate</a></li><li><a href="https://www.teleborsa.it/DettaglioNews/221_2026-09-29_TLB/PNRR-inviata-a-Commissione-Ue-richiesta-pagamento-ultima-rata.html">Teleborsa - PNRR, inviata la richiesta di pagamento dell&#x27;ultima rata</a></li><li><a href="https://www.garanteprivacy.it/garante/doc.jsp?ID=10319176">Garante privacy - Newsletter del 12 novembre 2026</a></li><li><a href="https://www.tennismajors.com/atp/nitto-atp-finals-atp/tiafoe-crushes-cobolli-in-front-on-italian-crowd-alcaraz-qualified-as-group-winner-at-the-atp-finals-867257.html">Tennis Majors - Tiafoe batte Cobolli, Alcaraz primo del girone</a></li><li><a href="https://www.nst.com.my/amp/sports/racquet-sports/2026/11/1579293/alcaraz-sweeps-aside-tiafoe-atp-finals-demonstration-force">Nation - Alcaraz batte Tiafoe alle ATP Finals</a></li></ul>]]></description>
       <itunes:summary>Sciopero generale della Cgil, vertice Trump Xi Putin a Shenzhen, falle Puppet e Cisco sfruttate, PNRR e Garante, ATP Finals</itunes:summary>
@@ -32,7 +43,7 @@
       <pubDate>Thu, 19 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>547</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-19.jpg?v=1795065835"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-19.jpg?v=1795152455"/>
     </item>
     <item>
       <title>Rassegna di mercoledì 18 novembre 2026</title>
@@ -43,7 +54,7 @@
       <pubDate>Wed, 18 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>541</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-18.jpg?v=1795065630"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-18.jpg?v=1795152455"/>
     </item>
     <item>
       <title>Rassegna di martedì 17 novembre 2026</title>
@@ -54,7 +65,7 @@
       <pubDate>Tue, 17 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>528</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-17.jpg?v=1795065630"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-17.jpg?v=1795152455"/>
     </item>
     <item>
       <title>Rassegna di lunedì 16 novembre 2026</title>
@@ -65,7 +76,7 @@
       <pubDate>Mon, 16 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>544</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-16.jpg?v=1795065630"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-16.jpg?v=1795152455"/>
     </item>
     <item>
       <title>Rassegna di venerdì 13 novembre 2026</title>
@@ -76,7 +87,7 @@
       <pubDate>Fri, 13 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>529</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-13.jpg?v=1795065630"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-13.jpg?v=1795152455"/>
     </item>
     <item>
       <title>Rassegna di giovedì 12 novembre 2026</title>
@@ -87,7 +98,7 @@
       <pubDate>Thu, 12 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>545</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-12.jpg?v=1795065630"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-12.jpg?v=1795152455"/>
     </item>
     <item>
       <title>Rassegna di mercoledì 11 novembre 2026</title>
@@ -98,7 +109,7 @@
       <pubDate>Wed, 11 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>584</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-11.jpg?v=1795065630"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-11.jpg?v=1795152455"/>
     </item>
     <item>
       <title>Rassegna di martedì 10 novembre 2026</title>
@@ -109,7 +120,7 @@
       <pubDate>Tue, 10 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>540</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-10.jpg?v=1795065630"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-10.jpg?v=1795152455"/>
     </item>
     <item>
       <title>Rassegna di lunedì 9 novembre 2026</title>
@@ -120,18 +131,7 @@
       <pubDate>Mon, 09 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>540</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-09.jpg?v=1795065630"/>
-    </item>
-    <item>
-      <title>Rassegna del sabato 7 novembre 2026</title>
-      <description><![CDATA[<p>Falsi allarmi bomba sui voli, fine vita in Veneto, negoziati sull&#x27;Ucraina, sicurezza informatica di banche e Comuni, Italia-Sudafrica di rugby</p><p>Fonti:</p><ul><li><a href="https://it.euronews.com/2026/11/06/allarmi-bomba-sui-voli-indagini-coordinate-dallantimafia-meloni-sotto-attacco-le-infrastru">Euronews - Allarmi bomba sui voli, indagini coordinate dall&#x27;Antimafia</a></li><li><a href="https://ansa.it/sito/podcast/ansa_voice_daily/2026/11/06/prime-pagine-ondata-di-allarmi-bomba-sui-voli-in-europa-caose-jet_2a74998b-73e4-4e26-91df-165def2f56b5.html">ANSA - Prime pagine e ultima ora: allarmi bomba sui voli in Europa</a></li><li><a href="https://www.leggo.it/italia/cronache/06_novembre_2026_allarme_bomba_oggi_aereo_roma_lisbona-9873084.html">Leggo - Allarmi bomba, indagano Antimafia e Antiterrorismo</a></li><li><a href="https://www.ilsole24ore.com/art/fine-vita-governo-impugna-legge-veneto-salvini-non-vota-cdm-calderoli-contrario-AJHFDG6B">Il Sole 24 Ore - Fine vita, il governo impugna la legge del Veneto</a></li><li><a href="https://www.alanews.it/2026/11/05/politica/fine-vita-veneto-impugnazione-governo">Alanews - Fine vita, Salvini non vota, Stefani sfida la Consulta</a></li><li><a href="https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/07/trump-stiamo-facendo-molti-progressi-con-russia-e-ucraina_e5366c4c-7916-4690-a1c1-0230c8392d39.html">ANSA - Trump: molti progressi con Russia e Ucraina</a></li><li><a href="https://www.lospecialegiornale.it/2026/11/07/ucraina-trump-progressi-con-mosca-e-kiev-possibile-un-grande-accordo-ma-la-russia-bombarda-ancora-la-capitale/">Lo Speciale - Trump e il nuovo attacco russo su Kiev</a></li><li><a href="https://www.ilfattoquotidiano.it/2026/11/06/attacchi-hacker-banche-italiane-cybersicurezza-notizie/8562740/">Il Fatto Quotidiano - Attacchi hacker alle banche, audizione di Quacivi (ACN)</a></li><li><a href="https://inno3.it/2026/11/06/catena-del-freddo-e-iot-esposte-guida-per-le-aziende/">inno3 - Catena del freddo e IoT esposte, il bollettino ACN</a></li><li><a href="https://ansa.it/canale_tecnologia/notizie/cybersecurity/2026/11/06/openai-spinge-su-cybersicurezza-nuovo-modello-ia-scova-falle-in-oggetti-connessi_29d54132-cae2-4f2e-bb6f-d8cf789edb1a.html">ANSA - OpenAI, nuovo modello IA scova falle in oggetti connessi</a></li><li><a href="https://www.italiaoggi.it/enti-locali-e-pa/attacchi-hacker-ai-comuni-uno-su-quattro-colpito-e-uno-su-tre-senza-sistemi-di-ripristino-x30kvff0">ItaliaOggi - Attacchi hacker ai Comuni, uno su quattro colpito</a></li><li><a href="https://www.key4biz.it/mappa-dei-comuni-digitali-il-pnrr-ha-costruito-le-piattaforme-la-sfida-e-farle-funzionare-il-nervo-scoperto-della-sicurezza/592794/">Key4biz - Mappa dei Comuni digitali, il nervo scoperto della sicurezza</a></li><li><a href="https://forumpa.it/pa-digitale/digitalizzazione-delle-citta-2-cittadini-su-3-promuovono-i-servizi-online-del-proprio-comune">FPA - 2 cittadini su 3 promuovono i servizi online del proprio Comune</a></li><li><a href="https://www.teleborsa.it/News/2026/11/06/servizi-digitali-comunali-2-cittadini-su-3-soddisfatti-ma-serve-piu-inclusione-201.html">Teleborsa - Servizi digitali comunali, indagine ICity Club</a></li><li><a href="https://www.oasport.it/2026/11/rugby-sudafrica-la-formazione-per-torino-erasmus-punta-su-esperienza-e-qualita/">OA Sport - Sudafrica, la formazione per Torino</a></li><li><a href="https://sports.yahoo.com/articles/italy-rugby-2026-nations-championship-133153680.html">Yahoo Sports - Italy Rugby 2026 Nations Championship November Schedule</a></li><li><a href="https://www.lapresse.it/sport/tennis/2026/11/04/flavio-cobolli-qualificato-alle-atp-finals-2026/">LaPresse - Flavio Cobolli qualificato alle Atp Finals 2026</a></li><li><a href="https://www.ilfattoquotidiano.it/2026/11/04/cobolli-atp-finals-2026-qualificazione-ufficiale-sesto-italiano-di-sempre-brindisi-social-infortunio-come-sta/8560167/">Il Fatto Quotidiano - Cobolli qualificato alle ATP Finals di Torino</a></li><li><a href="https://torinotopnews.it/sport/atp-finals-2026-senza-sinner-torino/">Torino Top News - ATP Finals 2026 senza Sinner</a></li></ul>]]></description>
-      <itunes:summary>Falsi allarmi bomba sui voli, fine vita in Veneto, negoziati sull&#x27;Ucraina, sicurezza informatica di banche e Comuni, Italia-Sudafrica di rugby</itunes:summary>
-      <enclosure url="https://giovannidad.github.io/rassegna-stampa/audio/2026-11-07.mp3" length="1792512" type="audio/mpeg"/>
-      <guid isPermaLink="false">rassegna-2026-11-07</guid>
-      <pubDate>Sat, 07 Nov 2026 06:30:00 +0100</pubDate>
-      <itunes:duration>298</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-07.jpg?v=1795065630"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-09.jpg?v=1795152455"/>
     </item>
   </channel>
 </rss>
