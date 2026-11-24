@@ -6,7 +6,7 @@
     <atom:link href="https://giovannidad.github.io/rassegna-stampa/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Una breve rassegna stampa indipendente che in meno di 10 minuti ti tiene informato sulle notizie più importanti del giorno. Testi curati con l&#x27;intelligenza artificiale e letti da una voce sintetica.</description>
     <language>it-IT</language>
-    <lastBuildDate>Mon, 23 Nov 2026 06:19:50 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 06:17:43 +0100</lastBuildDate>
     <itunes:author>Rassegna Stampa</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner>
@@ -24,6 +24,17 @@
       <link>https://giovannidad.github.io/rassegna-stampa/</link>
     </image>
     <item>
+      <title>Rassegna di martedì 24 novembre 2026</title>
+      <description><![CDATA[<p>Attacchi russi nella regione di Kiev e nuove sanzioni Ue, navi russe colpite al largo della Libia, manovra e Conferenza Stato-Città, falla critica Cisco Expressway, linee guida AgID sull&#x27;intelligenza artificiale</p><p>Fonti:</p><ul><li><a href="https://www.euronews.com/2026/11/23/russian-air-strikes-kill-at-least-15-people-across-kyiv-region-ukraine-says">Euronews - Russian air strikes kill at least 15 people across Kyiv region, Ukraine says</a></li><li><a href="https://www.euronews.com/2026/11/23/eu-goes-after-russias-banks-soldiers-and-athletes-in-new-sanctions-package">Euronews - EU goes after Russia&#x27;s banks, soldiers and athletes in new sanctions package</a></li><li><a href="https://www.euronews.com/2026/11/23/merz-says-it-was-a-mistake-not-to-admit-ukraine-into-nato-in-2008">Euronews - Merz says it was a mistake not to admit Ukraine into NATO in 2008</a></li><li><a href="https://www.euronews.com/2026/11/23/un-mission-in-libya-urges-probe-after-russian-ship-hit-by-drones-off-benghazi">Euronews - Ukraine responsible for drone strikes on two Russian ships off Libya, Zelenskyy says</a></li><li><a href="https://www.euronews.com/2026/11/23/sanctions-summits-and-strikes-the-war-in-ukraine-shows-no-sign-of-slowing">Euronews - Sanctions, summits and strikes: The war in Ukraine shows no sign of slowing</a></li><li><a href="https://www.ansa.it/sito/notizie/topnews/2026/11/18/meloni-il-24-presiede-la-conferenza-stato-citta-a-p.chigi_ed60f6d4-9482-4b7a-b2ef-270c099e2dd0.html">ANSA - Meloni il 24 presiede la Conferenza Stato-Città a Palazzo Chigi</a></li><li><a href="https://www.ansa.it/sito/notizie/politica/2026/11/19/nuovo-vertice-di-maggioranza-si-cerca-lintesa-sulle-modifiche-alla-manovra_f14af22e-5fa1-4851-b2a1-60f52ce6bb6e.html">ANSA - Nuovo vertice di maggioranza, si cerca l&#x27;intesa sulle modifiche alla manovra</a></li><li><a href="https://www.ansa.it/sito/notizie/economia/2026/11/14/dal-superbonus-alla-sanita-la-carica-degli-emendamenti-alla-manovra_8573b4c5-be0d-4e03-aa95-0c2d6ea8e11c.html">ANSA - Dal superbonus alla sanità, la carica degli emendamenti alla manovra</a></li><li><a href="https://news.un.org/en/story/2026/11/1168858">UN News - Heavy fighting in Ituri traps DR Congo Ebola responders: WHO</a></li><li><a href="https://news.un.org/en/story/2026/11/1168861">UN News - UN chief urges talks on global AI safety framework</a></li><li><a href="https://www.securityweek.com/sap-netweaver-cisco-expressway-flaws-exploited-in-attacks/">SecurityWeek - SAP NetWeaver, Cisco Expressway Flaws Exploited in Attacks</a></li><li><a href="https://www.studiolegaleprivacy.com/osservatorio-privacy-digital-law-%C2%B7-n-1-%C2%B7-10-novembre-2026/">Studio Legale Privacy - Osservatorio Privacy &amp; Digital Law n. 1, 10 novembre 2026</a></li><li><a href="https://shattered.io/it/ai-act-italia-dlgs-179-2026-acn-agid/">Shattered - AI Act Italia: D.Lgs. 179/2026 in vigore, AgID e ACN</a></li></ul>]]></description>
+      <itunes:summary>Attacchi russi nella regione di Kiev e nuove sanzioni Ue, navi russe colpite al largo della Libia, manovra e Conferenza Stato-Città, falla critica Cisco Expressway, linee guida AgID sull&#x27;intelligenza artificiale</itunes:summary>
+      <enclosure url="https://giovannidad.github.io/rassegna-stampa/audio/2026-11-24.mp3" length="3240432" type="audio/mpeg"/>
+      <guid isPermaLink="false">rassegna-2026-11-24</guid>
+      <pubDate>Tue, 24 Nov 2026 06:30:00 +0100</pubDate>
+      <itunes:duration>540</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-24.jpg?v=1795497462"/>
+    </item>
+    <item>
       <title>Rassegna di lunedì 23 novembre 2026</title>
       <description><![CDATA[<p>Sciopero generale Cgil e manovra, attacchi russi in Ucraina e telefonata Trump-Putin, falle critiche in F5 BIG-IP e VMware vCenter, Coppa Davis a Bologna</p><p>Fonti:</p><ul><li><a href="https://www.open.online/2026/11/17/sciopero-generale-venerdi-20-novembre-chi-si-ferma-orari-fasce-garanzia/">Open - Sciopero generale venerdì 20 novembre: chi si ferma, orari e fasce di garanzia</a></li><li><a href="https://www.internazionale.it/notizie/2026/11/18/sciopero-generale-italia-cose-da-sapere">Internazionale - Sciopero generale in Italia, cose da sapere</a></li><li><a href="https://www.open.online/2026/11/13/legge-bilancio-26-governo-sindacati/">Open - Legge di bilancio, governo e sindacati</a></li><li><a href="https://www.ansa.it/ansamed/it/notizie/rubriche/politica/2026/11/23/notiziario-ansamed_6094f98d-43e7-4e50-81c1-a1478425c7b1.html">ANSA - Notiziario Ansamed del 23 novembre 2026</a></li><li><a href="https://www.ansa.it/sito/notizie/mondo/2026/11/23/kiev-il-bilancio-dellattacco-russo-a-dymer-e-salito-a-sei-morti_bf97926e-a820-4cea-a536-6f6ffbacd10d.html">ANSA - Kiev, il bilancio dell&#x27;attacco russo a Dymer è salito a sei morti</a></li><li><a href="https://www.ansa.it/sito/notizie/mondo/2026/11/22/zelensky-mosca-vuole-isolare-le-regioni-di-odessa-e-dnipro-dalle-fonti-energetiche_6f6dca80-2ecc-4fc3-a5aa-e9a7aaed49a7.html">ANSA - Zelensky, Mosca vuole isolare le regioni di Odessa e Dnipro dalle fonti energetiche</a></li><li><a href="https://www.ansa.it/sito/notizie/mondo/2026/11/22/trump-su-truth-chiama-putin-my-friend-scattano-le-polemiche_5b1fb6fb-b72e-417c-9ed6-ef97371e7055.html">ANSA - Trump su Truth chiama Putin My Friend, scattano le polemiche</a></li><li><a href="https://www.ansa.it/sito/notizie/mondo/2026/11/23/mosca-putin-e-trump-non-hanno-discusso-della-nomina-di-un-ambasciatore-a-washington_81ae1b4a-b31b-4afe-91eb-6d0db39c2527.html">ANSA - Mosca, Putin e Trump non hanno discusso della nomina di un ambasciatore a Washington</a></li><li><a href="https://www.ansa.it/sito/notizie/mondo/2026/11/22/trump-con-la-vittoria-dei-dem-alle-midterm-liran-e-diventato-piu_8194f4ad-d71c-4e0f-b136-dea3dbd3627e.html">ANSA - Trump, con la vittoria dei dem alle midterm l&#x27;Iran è diventato più aggressivo</a></li><li><a href="https://www.euronews.com/video/2026/11/21/ballistic-missile-attack-on-zelenskyys-hometown-kills-two-people">Euronews - Ballistic missile attack on Zelenskyy&#x27;s hometown kills two people</a></li><li><a href="https://www.euronews.com/video/2026/11/21/russian-cargo-ship-struck-by-drone-in-gulf-of-finland-finnish-authorities-say">Euronews - Russian cargo ship struck by drones in Gulf of Finland</a></li><li><a href="https://www.euronews.com/video/2026/11/20/europe-tonight-eu-and-uk-strike-post-brexit-reset-deal-as-russian-missiles-hit-poland">Euronews - Europe Tonight: EU and UK strike post-Brexit reset deal</a></li><li><a href="https://www.euronews.com/video/2026/11/21/thousands-take-to-streets-in-portugal-france-and-spain-over-rising-living-costs">Euronews - Thousands take to streets in Portugal, France and Spain over rising living costs</a></li><li><a href="https://www.euronews.com/video/2026/11/21/five-eu-countries-plan-to-send-migrants-to-rwanda-is-it-legal">Euronews - Five EU countries plan to send migrants to Rwanda. Is it legal?</a></li><li><a href="https://www.euronews.com/video/2026/11/20/turkey-activists-chant-shame-as-cop31-negotiations-falter">Euronews - Activists chant shame as COP31 negotiations falter</a></li><li><a href="https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/">BleepingComputer - F5 releases emergency patches for critical BIG-IP RCE flaws</a></li><li><a href="https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/">BleepingComputer - VMware patches vCenter zero-day exploited in attacks since September</a></li><li><a href="https://www.gpdp.it/home/docweb/-/docweb-display/docweb/10319176">Garante privacy - Newsletter del 12 novembre 2026</a></li><li><a href="https://www.atptour.com/en/scores/current/bologna/8099/live-scores">ATP Tour - Davis Cup Finals, Bologna</a></li></ul>]]></description>
       <itunes:summary>Sciopero generale Cgil e manovra, attacchi russi in Ucraina e telefonata Trump-Putin, falle critiche in F5 BIG-IP e VMware vCenter, Coppa Davis a Bologna</itunes:summary>
@@ -32,7 +43,7 @@
       <pubDate>Mon, 23 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>523</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-23.jpg?v=1795411190"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-23.jpg?v=1795497263"/>
     </item>
     <item>
       <title>Rassegna di venerdì 20 novembre 2026</title>
@@ -43,7 +54,7 @@
       <pubDate>Fri, 20 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>545</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-20.jpg?v=1795410999"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-20.jpg?v=1795497263"/>
     </item>
     <item>
       <title>Rassegna di giovedì 19 novembre 2026</title>
@@ -54,7 +65,7 @@
       <pubDate>Thu, 19 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>547</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-19.jpg?v=1795410999"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-19.jpg?v=1795497263"/>
     </item>
     <item>
       <title>Rassegna di mercoledì 18 novembre 2026</title>
@@ -65,7 +76,7 @@
       <pubDate>Wed, 18 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>541</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-18.jpg?v=1795410999"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-18.jpg?v=1795497263"/>
     </item>
     <item>
       <title>Rassegna di martedì 17 novembre 2026</title>
@@ -76,7 +87,7 @@
       <pubDate>Tue, 17 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>528</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-17.jpg?v=1795410999"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-17.jpg?v=1795497263"/>
     </item>
     <item>
       <title>Rassegna di lunedì 16 novembre 2026</title>
@@ -87,7 +98,7 @@
       <pubDate>Mon, 16 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>544</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-16.jpg?v=1795410999"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-16.jpg?v=1795497263"/>
     </item>
     <item>
       <title>Rassegna di venerdì 13 novembre 2026</title>
@@ -98,7 +109,7 @@
       <pubDate>Fri, 13 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>529</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-13.jpg?v=1795410999"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-13.jpg?v=1795497263"/>
     </item>
     <item>
       <title>Rassegna di giovedì 12 novembre 2026</title>
@@ -109,7 +120,7 @@
       <pubDate>Thu, 12 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>545</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-12.jpg?v=1795410999"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-12.jpg?v=1795497263"/>
     </item>
     <item>
       <title>Rassegna di mercoledì 11 novembre 2026</title>
@@ -120,18 +131,7 @@
       <pubDate>Wed, 11 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>584</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-11.jpg?v=1795410999"/>
-    </item>
-    <item>
-      <title>Rassegna di martedì 10 novembre 2026</title>
-      <description><![CDATA[<p>Guerra con l&#x27;Iran e diplomazia americana, Ucraina e colloqui di Abu Dhabi, cambio ai vertici della Casa Bianca, dati di Tajani sul dark web, falle in OpenSSH e Zyxel, Anthropic verso la Borsa, scadenza PNRR per i Comuni</p><p>Fonti:</p><ul><li><a href="https://www.justsecurity.org/163775/early-edition-november-9-2026/">Just Security - Early Edition, 9 novembre 2026</a></li><li><a href="https://www.timesofisrael.com/liveblog-november-9-2026/">Times of Israel - Liveblog 9 novembre 2026</a></li><li><a href="https://aljazeera.com/news/2026/11/7/pro-russian-hackers-leak-italian-foreign-ministers-data-on-dark-web">Al Jazeera - Hacker filorussi diffondono i dati del ministro degli Esteri italiano</a></li><li><a href="https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html">The Hacker News - Weekly Recap, novembre 2026</a></li><li><a href="https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/">TechCrunch - Anthropic procede con i piani di IPO</a></li><li><a href="https://www.anciabruzzo.it/personale-pnrr-e-coesione-nei-comuni-anci-nessuna-nuova-scadenza-spese-fino-al-31-12-2026/">ANCI Abruzzo - Personale PNRR e Coesione nei Comuni, spese fino al 31 dicembre 2026</a></li></ul>]]></description>
-      <itunes:summary>Guerra con l&#x27;Iran e diplomazia americana, Ucraina e colloqui di Abu Dhabi, cambio ai vertici della Casa Bianca, dati di Tajani sul dark web, falle in OpenSSH e Zyxel, Anthropic verso la Borsa, scadenza PNRR per i Comuni</itunes:summary>
-      <enclosure url="https://giovannidad.github.io/rassegna-stampa/audio/2026-11-10.mp3" length="3245472" type="audio/mpeg"/>
-      <guid isPermaLink="false">rassegna-2026-11-10</guid>
-      <pubDate>Tue, 10 Nov 2026 06:30:00 +0100</pubDate>
-      <itunes:duration>540</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-10.jpg?v=1795410999"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-11.jpg?v=1795497263"/>
     </item>
   </channel>
 </rss>
