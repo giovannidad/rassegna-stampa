@@ -6,7 +6,7 @@
     <atom:link href="https://giovannidad.github.io/rassegna-stampa/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Una breve rassegna stampa indipendente che in meno di 10 minuti ti tiene informato sulle notizie più importanti del giorno. Testi curati con l&#x27;intelligenza artificiale e letti da una voce sintetica.</description>
     <language>it-IT</language>
-    <lastBuildDate>Tue, 24 Nov 2026 06:17:43 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 08:15:36 +0100</lastBuildDate>
     <itunes:author>Rassegna Stampa</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:owner>
@@ -32,7 +32,7 @@
       <pubDate>Tue, 24 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>540</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-24.jpg?v=1795497462"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-24.jpg?v=1795504408"/>
     </item>
     <item>
       <title>Rassegna di lunedì 23 novembre 2026</title>
@@ -43,7 +43,7 @@
       <pubDate>Mon, 23 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>523</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-23.jpg?v=1795497263"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-23.jpg?v=1795504408"/>
     </item>
     <item>
       <title>Rassegna di venerdì 20 novembre 2026</title>
@@ -54,7 +54,7 @@
       <pubDate>Fri, 20 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>545</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-20.jpg?v=1795497263"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-20.jpg?v=1795504408"/>
     </item>
     <item>
       <title>Rassegna di giovedì 19 novembre 2026</title>
@@ -65,7 +65,7 @@
       <pubDate>Thu, 19 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>547</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-19.jpg?v=1795497263"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-19.jpg?v=1795504408"/>
     </item>
     <item>
       <title>Rassegna di mercoledì 18 novembre 2026</title>
@@ -76,7 +76,7 @@
       <pubDate>Wed, 18 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>541</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-18.jpg?v=1795497263"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-18.jpg?v=1795504408"/>
     </item>
     <item>
       <title>Rassegna di martedì 17 novembre 2026</title>
@@ -87,7 +87,7 @@
       <pubDate>Tue, 17 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>528</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-17.jpg?v=1795497263"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-17.jpg?v=1795504408"/>
     </item>
     <item>
       <title>Rassegna di lunedì 16 novembre 2026</title>
@@ -98,7 +98,7 @@
       <pubDate>Mon, 16 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>544</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-16.jpg?v=1795497263"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-16.jpg?v=1795504408"/>
     </item>
     <item>
       <title>Rassegna di venerdì 13 novembre 2026</title>
@@ -109,7 +109,7 @@
       <pubDate>Fri, 13 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>529</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-13.jpg?v=1795497263"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-13.jpg?v=1795504408"/>
     </item>
     <item>
       <title>Rassegna di giovedì 12 novembre 2026</title>
@@ -120,7 +120,7 @@
       <pubDate>Thu, 12 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>545</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-12.jpg?v=1795497263"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-12.jpg?v=1795504408"/>
     </item>
     <item>
       <title>Rassegna di mercoledì 11 novembre 2026</title>
@@ -131,7 +131,7 @@
       <pubDate>Wed, 11 Nov 2026 06:30:00 +0100</pubDate>
       <itunes:duration>584</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
-      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-11.jpg?v=1795497263"/>
+      <itunes:image href="https://giovannidad.github.io/rassegna-stampa/covers/2026-11-11.jpg?v=1795504408"/>
     </item>
   </channel>
 </rss>
